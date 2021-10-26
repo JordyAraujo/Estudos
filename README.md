@@ -1,4 +1,4 @@
-# TutoriaisPtBR
+# Estudos
 Repositório voltado para anotações de estudos e tutoriais.
 
 O conteúdo aqui é pessoal e parte das minhas próprias conclusões dos conteúdos que venho estudando.
